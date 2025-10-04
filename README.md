@@ -15,23 +15,26 @@ Each case highlights different tools, methods, and actionable insights applied i
 
 ---
 
-## 📝 Case Studies
+## 📂 Case Studies
 
-### 1️⃣ Case 1: Background Check on Industrial Enterprise  
-*Structured OSINT investigation on company personnel and organizational links.*
+1. **Case 1: Background Check on Industrial Enterprise**  
+   *Structured OSINT investigation on company personnel and organizational links.*
 
-### 2️⃣ Case 2: Fraud Investigation with Open Data  
-*Investigated a company suspected of fraudulent financial behavior using procurement databases, corporate registries, court cases, and media archives. Uncovered a network of shell entities and reported findings for compliance action.*
+2. **Case 2: Fraud Investigation with Open Data**  
+   *Investigated a company suspected of fraudulent financial behavior using procurement databases, corporate registries, court cases, and media archives. Uncovered a network of shell entities and reported findings for compliance action.*
 
-### 3️⃣ Case 3: Social Media Intelligence (SOCMINT)  
-*Assessed online presence of an individual connected to a corporate investigation via LinkedIn, Facebook, and Twitter/X. Identified inconsistencies in employment claims and connections to controversial organizations.*
+3. **Case 3: Social Media Intelligence (SOCMINT)**  
+   *Assessed online presence of an individual connected to a corporate investigation via LinkedIn, Facebook, and Twitter/X. Identified inconsistencies in employment claims and connections to controversial organizations.*
 
-### 4️⃣ Case 4: Background Check Industrial Enterprise  
-*In-depth collection of legal and publicly available information on enterprise assets and personnel.*
+4. **Case 4: Background Check Industrial Enterprise**  
+   *In-depth collection of legal and publicly available information on enterprise assets and personnel.*
 
-### 5️⃣ Case 5: Locating a Suspect Using Open-Source Intelligence  
-*Gathered actionable data for law enforcement using Telegram, social media, public registries, and address analysis.*
+5. **Case 5: Locating a Suspect Using Open-Source Intelligence**  
+   *Gathered actionable data for law enforcement using Telegram, social media, public registries, and address analysis.*
 
+6. **Case 6: Verification of Claimed Law Enforcement Affiliation**  
+   *Confirmed that an individual falsely claimed government affiliation, using OSINT and HUMINT to provide actionable evidence for a safe police report.*
+   
 ---
 
 ## 🛠 Tools & Sources
